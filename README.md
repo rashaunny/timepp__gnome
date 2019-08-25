@@ -45,6 +45,9 @@ site](https://extensions.gnome.org/extension/1238/time/).
 * You can install it manually:
     * Download/clone this repo into your `~/.local/share/gnome-shell/extensions` dir and rename 
       the downloaded dir to `timepp@zagortenay333`.  
+    * cd ~/.local/share/gnome-shell/extensions
+    * git clone https://github.com/zagortenay333/timepp__gnome
+    * mv timepp__gnome timepp@zagortenay333
     * Restart gnome-shell by typing <kbd>Alt</kbd>+<kbd>F2</kbd>, then <kbd>r</kbd>, then <kbd>Enter</kbd>.
     * Enable the extension via gnome tweak tool.
 
